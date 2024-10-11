@@ -1,0 +1,4 @@
+com\esiggroup\todoproject\JakartaRestConfiguration.class
+com\esiggroup\todoproject\resources\JakartaEE11Resource.class
+com\esiggroup\todoproject\ResponsavelEntity.class
+com\esiggroup\todoproject\TarefaEntity.class
